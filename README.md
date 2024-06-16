@@ -1,1 +1,1 @@
-# My-Baby-Snake-Game
+# My Baby Snake Game
