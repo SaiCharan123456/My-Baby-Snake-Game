@@ -61,7 +61,7 @@ class Game2:
         time.sleep(3)
 
 
-        image = canvas.create_image_with_size(0,0,CANVAS_WIDTH,CANVAS_HEIGHT,"bg copy.png",0)
+        image = canvas.create_image_with_size(0,0,CANVAS_WIDTH,CANVAS_HEIGHT,"bg.png",0)
         
         
 
