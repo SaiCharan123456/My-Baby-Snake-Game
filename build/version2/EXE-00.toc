@@ -1,9 +1,9 @@
 ('D:\\WhiteHat\\Projects\\My Baby Snake Game\\dist\\version2.exe',
- True,
+ False,
  False,
  False,
  'c:\\users\\sai '
- 'charan\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ 'charan\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -4050,10 +4050,10 @@
  [],
  False,
  False,
- 1718567319,
- [('run.exe',
+ 1718568386,
+ [('runw.exe',
    'c:\\users\\sai '
-   'charan\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'charan\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'c:\\users\\sai '
  'charan\\appdata\\local\\programs\\python\\python38\\python38.dll')
