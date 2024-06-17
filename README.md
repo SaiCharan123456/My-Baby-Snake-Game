@@ -3,7 +3,8 @@
 
 
 > [!IMPORTANT]
-> ### If you did not install the game. Please go to [How To Install The Game](https://github.com/SaiCharan123456/My-Baby-Snake-Game/edit/main/README.md#how-to-install-the-game-)
+> ### If you did not install the game. Please go to [How To Install The Game](https://github.com/SaiCharan123456/My-Baby-Snake-Game/tree/main?tab=readme-ov-file#how-to-install-the-game-)
+
 > [!TIP]
 > - ### **play game 1 (version1) first then game 2 (version2)**
 > - ### **game 1 is easy**
