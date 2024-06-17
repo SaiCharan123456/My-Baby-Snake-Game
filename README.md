@@ -3,8 +3,7 @@
 
 
 > [!IMPORTANT]
-> ### If you did not install the game. Please go to [How To Install The Game](https://github.com/SaiCharan123456/My-Baby-Snake-Game#how-to-install)
-
+> ### If you did not install the game. Please go to [How To Install The Game](https://github.com/SaiCharan123456/My-Baby-Snake-Game/edit/main/README.md#how-to-install-the-game-)
 > [!TIP]
 > - ### **play game 1 (version1) first then game 2 (version2)**
 > - ### **game 1 is easy**
@@ -55,7 +54,7 @@
 > ### Use the arrow keys carefully
 > ### Do not press two keys at once or else you will lose the game
 
-- ## How to install the game :-
+- ## How to install the game:-
   - ### Step 1:- Click on the "code" button and download zip
     <img width="448" alt="image" src="https://github.com/SaiCharan123456/My-Baby-Snake-Game/assets/77579506/cb246efc-75b0-4f08-b210-8a272cecd908">
 
