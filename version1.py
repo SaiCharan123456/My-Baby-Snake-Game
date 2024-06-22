@@ -10,7 +10,7 @@ CANVAS_WIDTH = 500
 CANVAS_HEIGHT = 500
 SIZE = 50
 
-eat_sound = sa.WaveObject.from_wave_file('sounds/snake-hissing.wav')
+eat_sound = sa.WaveObject.from_wave_file('sounds/gulp.wav')
 game_over_sound = sa.WaveObject.from_wave_file('sounds/game-over.wav')
 youWin = sa.WaveObject.from_wave_file('sounds/you-win.wav')
 Backgroundsound = sa.WaveObject.from_wave_file('sounds/nature.wav')
